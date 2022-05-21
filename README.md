@@ -1,1 +1,1 @@
-### Git calculator
+### Odin calculator
